@@ -1,4 +1,4 @@
-package org.ies.library.model;
+package org.ies.bank.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
