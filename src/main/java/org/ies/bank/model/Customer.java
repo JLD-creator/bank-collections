@@ -12,5 +12,5 @@ public class Customer {
     protected String name;
     protected String surname;
     protected int zipCode;
-    List<Customer> customers;
+
 }

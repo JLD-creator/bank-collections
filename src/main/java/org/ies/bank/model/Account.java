@@ -11,6 +11,6 @@ public class Account {
     protected String iban;
     protected String nif;
     protected Double balance;
-    Map<String, Account> accountsByIban;
+
 
 }
