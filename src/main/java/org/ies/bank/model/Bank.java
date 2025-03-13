@@ -10,6 +10,6 @@ import java.util.Map;
 @AllArgsConstructor
 public class Bank {
     protected String name;
-    Map<String, Account> accountsByIban;
-    List<Customer> customers;
+    protected Map<String, Account> accountsByIban;
+    protected List<Customer> customers;
 }
